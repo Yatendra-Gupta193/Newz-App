@@ -27,6 +27,8 @@ A modern, responsive news app built with Vanilla JavaScript, delivering real-tim
 3. Add key to script.js
 4. Run with live server or deploy to GitHub Pages/Netlify/Vercel# News-App
 
+---
+
 <h2 align="center">📸 Project Preview</h2>
 
 <p align="center">
