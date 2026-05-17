@@ -33,4 +33,4 @@ A modern, responsive news app built with Vanilla JavaScript, delivering real-tim
 
 <p align="center">
   <img src="image.png" width="800">
-</p><h3>News-App</h3>
+</p><h3>#News-App</h3>
